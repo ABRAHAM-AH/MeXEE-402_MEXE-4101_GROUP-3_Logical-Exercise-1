@@ -1,4 +1,5 @@
 # MeXEE-402_MEXE-4101_GROUP-3_Logical-Exercise-1
+Activity
 
 These operations allow for data transformation and analysis in a structured database, helping to organize and categorize information based on specific conditions.
 
